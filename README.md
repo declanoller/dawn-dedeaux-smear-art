@@ -1,9 +1,12 @@
 
+## Original:
+
 <p align="center">
   <img width="300" height="400" src="dawn_dedeaux_pics/IMG_20190616_130329.jpg">
   <img width="300" height="400" src="dawn_dedeaux_pics/IMG_20190616_130356.jpg">
 </p>
 
+## Current:
 
 <p align="center">
   <img width="300" height="400" src="euler.jpg">
