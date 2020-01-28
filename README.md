@@ -17,9 +17,9 @@
 - Right now, the vector field is just proportional to the distance from the image center.
 - However, if you simply do this (see imgs/vector fields below), the trails overlap each other a lot. Therefore, I added a small amount of random jitter to the vector field. The amount of jitter is proportional to the image dimensions.
 - A few more steps. For ex, because all the blocks move outwards, it's effectively only doing it for the center of the image. It'd be smart to add an empty border for them to move to.
+- Also: make more interesting vector fields. Will require a couple minor changes, but nothing major.
 
-Some examples of images and vector fields:
-
+Some examples of a few variants of images and vector fields:
 
 <p align="center">
   <img width="300" height="400" src="example_imgs/euler_smeared_15.jpg">
