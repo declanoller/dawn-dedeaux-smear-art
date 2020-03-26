@@ -1,6 +1,6 @@
 from SmearImage import SmearImage, PixelBlock
 
-sm = SmearImage('euler.jpg', N_blocks=50)
+sm = SmearImage('moondog.jpg', N_blocks=250)
 sm.smear_all()
 
 
