@@ -10,7 +10,7 @@
 
 <p align="center">
   <img width="300" height="400" src="euler.jpg">
-  <img width="300" height="400" src="example_imgs/euler_smeared_300blocks.jpg">
+  <img width="300" height="400" src="euler_smeared.jpg">
 </p>
 
 
@@ -22,23 +22,23 @@
 Some examples of a few variants of images and vector fields:
 
 <p align="center">
-  <img width="300" height="400" src="example_imgs/euler_smeared_15.jpg">
-  <img width="300" height="400" src="example_imgs/euler_vecfield_smeared_15.jpg">
+  <img width="300" height="400" src="example_imgs/saved/euler_smeared_15.jpg">
+  <img width="300" height="400" src="example_imgs/saved/euler_vecfield_smeared_15.jpg">
 </p>
 
 <p align="center">
-  <img width="300" height="400" src="example_imgs/euler_smeared_30.jpg">
-  <img width="300" height="400" src="example_imgs/euler_vecfield_smeared_30.jpg">
+  <img width="300" height="400" src="example_imgs/saved/euler_smeared_30.jpg">
+  <img width="300" height="400" src="example_imgs/saved/euler_vecfield_smeared_30.jpg">
 </p>
 
 <p align="center">
-  <img width="300" height="400" src="example_imgs/euler_smeared_50.jpg">
-  <img width="300" height="400" src="example_imgs/euler_vecfield_smeared_50.jpg">
+  <img width="300" height="400" src="example_imgs/saved/euler_smeared_50.jpg">
+  <img width="300" height="400" src="example_imgs/saved/euler_vecfield_smeared_50.jpg">
 </p>
 
 <p align="center">
-  <img width="300" height="400" src="example_imgs/euler_smeared_100.jpg">
-  <img width="300" height="400" src="example_imgs/euler_vecfield_smeared_100.jpg">
+  <img width="300" height="400" src="example_imgs/saved/euler_smeared_100.jpg">
+  <img width="300" height="400" src="example_imgs/saved/euler_vecfield_smeared_100.jpg">
 </p>
 
 
